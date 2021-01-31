@@ -2,11 +2,6 @@
 
 Programmabläufe prozedural implementieren
 
-## Table of contents
-* [Modulidentifikation](#Modulidentifikation)
-* [Handlungsziele](#Handlungsziele)
-* [Handlungsnotwendige Kenntnisse](#Handlungsnotwendige Kenntnisse)
-
 ## Modulidentifikation
 
 ### Handlungsziele
